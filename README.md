@@ -6,8 +6,8 @@ Utilizamos Typescript, Prisma ORM e Socket.IO para trabalhar comunicação em te
 
 Para rodar o projeto:
 
-1 - git clone https://github.com/lguilherme44/NLW-Heat.git
-2 - cd NLW-Heat
-3 - yarn ou yarn install 
-4 - yarn dev
-5 - importe as rotas.json no insomnia, caso queira testar
+## 1 - git clone https://github.com/lguilherme44/NLW-Heat.git
+## 2 - cd NLW-Heat
+## 3 - yarn ou yarn install 
+## 4 - yarn dev
+## 5 - importe as rotas.json no insomnia, caso queira testar
